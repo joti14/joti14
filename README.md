@@ -1,87 +1,87 @@
-<!-- Banner Card -->
 <p align="center">
-  <table align="center" cellpadding="0" cellspacing="0" style="border-radius: 16px;">
-    <tr>
-      <td align="center" bgcolor="#f0f6ff" style="padding: 32px 48px; border-radius: 16px; border: 1px solid #d0e4f7;">
-        <img src="https://github.com/user-attachments/assets/86ab404d-4b3e-4f1d-9215-38cda37752cf" width="260" alt="female_developer" />
-        <br/><br/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I%27m+a+Frontend+Engineer;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Nice+to+meet+you!+%F0%9F%98%8A;Let%27s+build+something+amazing+together+%F0%9F%92%BB" />
-      </td>
-    </tr>
-  </table>
+  <img src="./banner.svg" alt="Hasna Hena Joti - Frontend Developer" />
+</p>
+
+<!-- <h1 align="center">Hi, I'm Hasna Hena Joti 👋</h1> -->
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Turning+ideas+into+clean%2C+modern+UI" alt="typing" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Frontend Engineer focused on modern UI development  
-- 🌱 Currently exploring **Full-Stack Development & AI**  
-- 🎯 Goal: Become a Full-Stack Engineer  
-- 📫 Reach me at: **hasnahenajoti1414@gmail.com**
+## 👩‍💻 About Me
+
+I'm a frontend-focused developer who enjoys building clean, modern web interfaces with React and Next.js. I care a lot about polished UI, smooth interactions, and writing code that's easy to maintain. Currently completing my B.Tech in Computer Science Engineering, I'm working toward becoming a strong full-stack developer with a growing interest in AI-integrated applications.
+
+- 📍 Based in Dhaka, Bangladesh
+- 📧 Email: **hasnahenajoti1414@gmail.com**
+- 🌐 Portfolio: [joti-portfolio.vercel.app](https://joti-portfolio.vercel.app)
 
 ---
 
-### 🧠 Interests
-- 🌐 Full-Stack Development  
-- 🤖 Artificial Intelligence & Generative AI  
-- ⚡ Building real-world scalable applications  
-- 🎨 UI/UX & Interactive Web Design  
+## 🚀 What I'm Up To
+
+- 🔭 I'm currently building full-stack projects with **Next.js, Express, and MongoDB**
+- 🌱 I'm learning **TypeScript** and strengthening my JavaScript fundamentals
+- 🎨 I love working on **modern UI** with dark themes, glassmorphism, and subtle animations
+- 🤖 I'm exploring **AI integrations** in web apps as my next step
+- 💬 Ask me about React, Next.js, or building responsive interfaces
 
 ---
 
-### 🌐 Connect with me:
+## 🛠️ Skills & Tools
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
-<a href="https://dev.to/hasnahenajoti" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/hasnahenajoti" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://hashnode.com/@hasnahenajoti" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/hasnahenajoti1414" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+  <a href="https://github.com/joti14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasna-hena-joti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://joti-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hasnahenajoti1414@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### ⚒️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,git,github" />
-</p>
+## 📊 GitHub Stats
 
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joti14&show_icons=true&locale=en&layout=compact" />
 </p>
@@ -92,5 +92,6 @@
 
 ---
 
-### ✨ Fun Fact
-I enjoy turning ideas into real-world applications and continuously learning new technologies 🚀
+<p align="center">
+  <i>Thanks for visiting! Feel free to check out my pinned projects below. ⭐</i>
+</p>
