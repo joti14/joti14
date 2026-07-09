@@ -1,0 +1,109 @@
+<svg width="1500" height="400" viewBox="0 0 1500 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="50%" stop-color="#111634"/>
+      <stop offset="100%" stop-color="#0a0f2c"/>
+    </linearGradient>
+
+    <!-- Accent glow gradients -->
+    <radialGradient id="glowIndigo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowSky" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Text gradient -->
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c7d2fe"/>
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+
+    <!-- Glass card gradient -->
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="softblur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1500" height="400" fill="url(#bg)"/>
+
+  <!-- Dotted grid pattern -->
+  <g fill="#ffffff" opacity="0.05">
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6"/>
+    </pattern>
+    <rect width="1500" height="400" fill="url(#dots)"/>
+  </g>
+
+  <!-- Glow blobs -->
+  <circle cx="1180" cy="120" r="260" fill="url(#glowIndigo)" filter="url(#blur)"/>
+  <circle cx="1320" cy="330" r="220" fill="url(#glowSky)" filter="url(#blur)"/>
+  <circle cx="120" cy="360" r="200" fill="url(#glowIndigo)" filter="url(#blur)" opacity="0.6"/>
+
+  <!-- Floating glass cards (right side, decorative) -->
+  <g stroke="#ffffff" stroke-opacity="0.14" stroke-width="1">
+    <rect x="1010" y="90" width="150" height="150" rx="24" fill="url(#glass)" transform="rotate(-12 1085 165)"/>
+    <rect x="1200" y="150" width="120" height="120" rx="20" fill="url(#glass)" transform="rotate(10 1260 210)"/>
+    <rect x="1120" y="250" width="90" height="90" rx="18" fill="url(#glass)" transform="rotate(-6 1165 295)"/>
+  </g>
+
+  <!-- Code glyphs inside cards -->
+  <g font-family="'Fira Code', 'Courier New', monospace" fill="#c7d2fe" opacity="0.75">
+    <text x="1035" y="150" font-size="30" transform="rotate(-12 1085 165)">&lt;/&gt;</text>
+    <text x="1232" y="220" font-size="26" transform="rotate(10 1260 210)">{ }</text>
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="90" y="150" width="6" height="100" rx="3" fill="url(#pillGrad)"/>
+
+  <!-- Greeting -->
+  <text x="120" y="140" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="24" fill="#8b93b8" letter-spacing="4" font-weight="500">HI THERE, I'M</text>
+
+  <!-- Name -->
+  <text x="118" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="72" font-weight="800" fill="url(#nameGrad)" letter-spacing="1">Hasna Hena Joti</text>
+
+  <!-- Role pill -->
+  <rect x="120" y="252" width="430" height="46" rx="23" fill="url(#pillGrad)" opacity="0.18"/>
+  <rect x="120" y="252" width="430" height="46" rx="23" fill="none" stroke="url(#pillGrad)" stroke-width="1.5"/>
+  <text x="145" y="282" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="24" font-weight="600" fill="#e0e7ff">Frontend Developer &#183; MERN Stack</text>
+
+  <!-- Sub tagline -->
+  <text x="120" y="340" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="20" fill="#9aa3c4" font-weight="400">Turning ideas into clean, modern, responsive interfaces</text>
+
+  <!-- Tech tags -->
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="15" fill="#c7d2fe">
+    <g>
+      <rect x="1010" y="330" width="86" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#6366f1" stroke-opacity="0.4"/>
+      <text x="1028" y="350">React</text>
+    </g>
+    <g>
+      <rect x="1108" y="330" width="96" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#0ea5e9" stroke-opacity="0.4"/>
+      <text x="1122" y="350">Next.js</text>
+    </g>
+    <g>
+      <rect x="1216" y="330" width="104" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#6366f1" stroke-opacity="0.4"/>
+      <text x="1230" y="350">MongoDB</text>
+    </g>
+  </g>
+</svg>
